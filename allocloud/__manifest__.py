@@ -5,11 +5,12 @@
     'summary': """ALLOcloud summary""",
 
     'description': """
-        ALLOcloud summary
+        ALLOcloud description
     """,
 
     'author': "ALLOcloud",
     'website': "https://www.allocloud.com",
+    'images': ['static/description/banner.jpg'],
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
