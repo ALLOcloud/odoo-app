@@ -13,7 +13,7 @@
 
     'author': "ALLOcloud",
     'website': "https://www.allocloud.com",
-    'images': ['static/description/banner.jpg'],
+    'images': ['static/description/allocloud-odoo-banner.png'],
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
