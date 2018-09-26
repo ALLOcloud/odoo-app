@@ -12,7 +12,7 @@
     """,
 
     'author': "ALLOcloud",
-    'website': "https://www.allocloud.com",
+    'website': "https://www.allocloud.com/odoo",
     'images': ['static/description/allocloud-odoo-banner.png'],
 
     # Categories can be used to filter modules in modules listing
